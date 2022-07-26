@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1514140582 source:g:\教学\高级语言程序设计\课件\程序\10\11\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 g:\教学\高级语言程序设计\课件\程序\10\11\resource.h
+
+1601365446 source:g:\教学\高级语言程序设计\课件\程序\10\11\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
+1603005484 source:c:\file-fy\project\cpp\win32_gui演示\11\main.cpp
+	<windows.h>
+	<iostream>
+	<math.h>
+	<string>
+
+1514140582 source:c:\file-fy\project\cpp\win32_gui演示\11\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 c:\file-fy\project\cpp\win32_gui演示\11\resource.h
+
+1602864753 source:c:\file-fy\project\cpp\win32_gui演示\11\untitled1.c
+
+1602864093 c:\file-fy\project\cpp\win32_gui演示\11\cal.h
+
+1602864688 source:c:\file-fy\project\cpp\win32_gui演示\11\cal.c
+

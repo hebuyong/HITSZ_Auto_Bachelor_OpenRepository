@@ -1,0 +1,3 @@
+C:\file-fy\project\cpp\experiment1\Debug\experiment1.exe
+C:\file-fy\project\cpp\experiment1\Debug\experiment1.pdb
+C:\file-fy\project\cpp\CPPexperiment\Debug\experiment1.pdb

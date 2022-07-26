@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589548690 source:c:\file-fy\project\c\experiment4(function)\function.c
+	"function.h"
+
+1589550065 source:c:\file-fy\project\c\experiment4(function)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1589548853 c:\file-fy\project\c\experiment4(function)\function.h
+

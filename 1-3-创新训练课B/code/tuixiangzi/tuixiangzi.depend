@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1596180639 source:c:\file-fy\project\c\tuixiangzi\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<stdint.h>
+	<stdint.h>
+	<stdbool.h>
+

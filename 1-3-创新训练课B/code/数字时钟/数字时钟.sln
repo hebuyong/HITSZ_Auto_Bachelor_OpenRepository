@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数字时钟", "数字时钟.vcxproj", "{60316705-8A1A-402B-B7F1-54E5D0EB1111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60316705-8A1A-402B-B7F1-54E5D0EB1111}.Debug|x64.ActiveCfg = Debug|x64
+		{60316705-8A1A-402B-B7F1-54E5D0EB1111}.Debug|x64.Build.0 = Debug|x64
+		{60316705-8A1A-402B-B7F1-54E5D0EB1111}.Debug|x86.ActiveCfg = Debug|Win32
+		{60316705-8A1A-402B-B7F1-54E5D0EB1111}.Debug|x86.Build.0 = Debug|Win32
+		{60316705-8A1A-402B-B7F1-54E5D0EB1111}.Release|x64.ActiveCfg = Release|x64
+		{60316705-8A1A-402B-B7F1-54E5D0EB1111}.Release|x64.Build.0 = Release|x64
+		{60316705-8A1A-402B-B7F1-54E5D0EB1111}.Release|x86.ActiveCfg = Release|Win32
+		{60316705-8A1A-402B-B7F1-54E5D0EB1111}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BAD0F16-E37C-4A79-9581-4E599CF8E2E6}
+	EndGlobalSection
+EndGlobal
