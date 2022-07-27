@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project 5-1-light-voltage-control-6led-big-led ****
+
+"C:\\ti\\ccs1110\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: '5-1-light-voltage-control-6led-big-led.out' is up to date.
+
+**** Build Finished ****
