@@ -1,0 +1,2 @@
+C:\file-fy\project\cpp\CPPexperiment\Debug\CPPexperiment1.exe
+C:\file-fy\project\cpp\CPPexperiment\Debug\CPPexperiment1.pdb

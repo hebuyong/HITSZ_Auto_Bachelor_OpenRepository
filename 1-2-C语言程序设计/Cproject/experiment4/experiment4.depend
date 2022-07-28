@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592615251 source:c:\file-fy\project\c\experiment4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

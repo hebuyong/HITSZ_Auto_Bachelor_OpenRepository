@@ -1,0 +1,18 @@
+﻿  function.cpp
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(153,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(153,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(174,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(200,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(201,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(204,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(205,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(223,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(228,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(342,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(344,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(345,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(1056,9): warning C4101: “input2”: 未引用的局部变量
+  源.cpp
+  正在生成代码...
+C:\file-fy\project\VS\推箱子1\推箱子1\function.cpp(1298): warning C4715: “Move”: 不是所有的控件路径都返回值
+  推箱子1.vcxproj -> C:\file-fy\project\VS\推箱子1\Debug\推箱子1.exe

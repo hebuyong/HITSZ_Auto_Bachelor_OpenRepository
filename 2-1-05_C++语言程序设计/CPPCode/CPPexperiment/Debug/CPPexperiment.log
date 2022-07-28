@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\file-fy\project\cpp\CPPexperiment\源.cpp(77,9): warning C4101: “j”: 未引用的局部变量
+C:\file-fy\project\cpp\CPPexperiment\源.cpp(77,6): warning C4101: “i”: 未引用的局部变量
+C:\file-fy\project\cpp\CPPexperiment\源.cpp(198,20): warning C4101: “operater2”: 未引用的局部变量
+C:\file-fy\project\cpp\CPPexperiment\源.cpp(198,9): warning C4101: “operater1”: 未引用的局部变量
+  CPPexperiment.vcxproj -> C:\file-fy\project\cpp\CPPexperiment\Debug\CPPexperiment1.exe

@@ -1,0 +1,37 @@
+﻿  function.cpp
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(8,1): warning C4005: “SIZE”: 宏重定义
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.h(2): message : 参见“SIZE”的前一个定义
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(9,1): warning C4005: “W”: 宏重定义
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.h(3): message : 参见“W”的前一个定义
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(10,1): warning C4005: “H”: 宏重定义
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.h(4): message : 参见“H”的前一个定义
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(25,9): warning C4101: “j”: 未引用的局部变量
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(25,6): warning C4101: “i”: 未引用的局部变量
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(33,53): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(266,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(33,53): message : 尝试匹配参数列表“(IMAGE *, const char [23])”时
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(34,73): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(267,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(266,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(34,73): message : 尝试匹配参数列表“(IMAGE *, const char [25], int, int)”时
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(42,29): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(234,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(233,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(42,29): message : 尝试匹配参数列表“(int, int, const char [6])”时
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(43,24): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(234,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(233,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(43,24): message : 尝试匹配参数列表“(int, int, char [10])”时
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(97,80): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(234,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(233,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(97,80): message : 尝试匹配参数列表“(int, int, const char [25])”时
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(100,58): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(234,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(233,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(100,58): message : 尝试匹配参数列表“(int, int, const char [7])”时
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(101,44): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(234,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\easyx.h(233,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(101,44): message : 尝试匹配参数列表“(int, int, char [10])”时
+D:\FY\2019-2020\3\创新训练课B\code\俄罗斯方块\function.cpp(177,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
