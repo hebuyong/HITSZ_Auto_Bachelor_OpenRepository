@@ -1,12 +1,10 @@
 # HITSZ_Auto_Bachelor_OpenRepository Statement
 
-### 本仓库用于分享本人于hitsz自动化本科就读期间作业、实验、笔记、总结等
 
-***本仓库免费分享，请勿付费传播***，请尊重仓库所有人的著作权
+### This repository is used to share homework, experiments, notes, and summaries, etc of myself during studying in HITSZ majoring in automation.
 
-本仓库**未收录课程相关电子书籍**，需要请联系mail:hebuyong@gmail.com
+This repository is shared for free, please do not pay for dissemination, please respect the copyright of the owner of the repository.
 
-如本仓库侵犯了您的权益，请联系mail:hebuyong@gmail.com删除相关文档
+This repository does not include e-books related to courses, please contact mail:hebuyong@gmail.com if need help.
 
-
-
+If this repository violates your rights and interests, please contact mail:hebuyong@gmail.com to delete related documents.
