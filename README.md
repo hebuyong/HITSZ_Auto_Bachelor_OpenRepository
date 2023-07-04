@@ -1,10 +1,8 @@
-# HITSZ_OpenAutomation 声明
+# HITSZ_Auto_Bachelor_OpenRepository Statement
 
 ### 本仓库用于分享本人于hitsz自动化本科就读期间作业、实验、笔记、总结等
 
 ***本仓库免费分享，请勿付费传播***，请尊重仓库所有人的著作权
-
-前后整理花费了数天时间，希望有所帮助，也希望后来者能继续接力分享自己的所学所得
 
 本仓库**未收录课程相关电子书籍**，需要请联系mail:hebuyong@gmail.com
 
