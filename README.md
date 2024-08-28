@@ -3,7 +3,7 @@
 
 ### This repository is used to share homework, experiments, notes, and summaries, etc of myself during studying in HITSZ majoring in automation.
 
-本仓库用于分享本人在HITSZ自动化专业学习期间的作业、实验、笔记、总结等。
+### 本仓库用于分享本人在HITSZ自动化专业学习期间的作业、实验、笔记、总结等。
 
 This repository is shared for free, please do not pay for dissemination, please respect the copyright of the owner of the repository.
 
